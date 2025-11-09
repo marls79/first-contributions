@@ -1,0 +1,4 @@
+My GitHub Goals:
+1. Learn to use branches and pull requests.
+2. Build small projects with HTML, CSS, and Python.
+3. Keep my GitHub profile updated regularly.
