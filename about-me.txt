@@ -1,0 +1,3 @@
+My name is Marlene Davids.
+This is my first GitHub project.
+I learned how to use commits and pull requests.
